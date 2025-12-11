@@ -1,0 +1,39 @@
+# Node modules
+node_modules/
+
+# Hardhat artifacts
+artifacts/
+cache/
+
+# Env files (if used)
+.env
+
+# Logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# OS specific
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Docker
+docker-data/
+
+# Build outputs
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.log
+
+# Hardhat specific cache
+typechain/
+coverage/
+coverage.json
+
+# Git ignored files
+*.tgz
