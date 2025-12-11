@@ -1,0 +1,14 @@
+{
+  "name": "nft-contract-project",
+  "version": "1.0.0",
+  "description": "ERC721 NFT contract with tests and Dockerfile",
+  "scripts": {
+    "test": "hardhat test",
+    "compile": "hardhat compile"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@openzeppelin/contracts": "^4.9.3",
+    "hardhat": "^2.27.2"
+  }
+}
